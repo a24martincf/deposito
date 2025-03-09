@@ -7,6 +7,7 @@ public class CCuenta {
     private double saldo;
     private double tipoInterés;
 
+    // Comentario realizado para poder realizar un commit ademáis do de creación do repositorio
     public String getNombre() {
         return nombre;
     }
